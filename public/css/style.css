@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.text{
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+}

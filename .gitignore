@@ -1,0 +1,4 @@
+# don't push folder auto generates 
+node_modules/
+dist/
+.cache/

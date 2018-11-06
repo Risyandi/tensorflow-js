@@ -1,0 +1,16 @@
+{
+  "name": "tensorflow",
+  "version": "1.0.0",
+  "description": "testing working AI using tensorflow",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "tensorflow"
+  ],
+  "author": "risyandi",
+  "license": "ISC"
+}

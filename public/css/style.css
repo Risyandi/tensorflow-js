@@ -16,8 +16,11 @@ body {
 }
 .page-header {
     background-color: #f5f7fa;
-    border-bottom: 1px solid #3057D5;
+    border-bottom: 1px solid #152935;
 }
 .container {
     margin-top: 64px;
+}
+.center {
+    margin: auto;
 }

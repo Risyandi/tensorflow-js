@@ -50,3 +50,7 @@ installing per project
 ```
 npm install parcel-bundler --save-dev
 ```
+Running on your server 
+```
+parcel index.html
+```
